@@ -37,7 +37,7 @@ public void doLogin(){
 @Test	(priority=1)	
 public void doUserReg(){
 			System.out.println("Executing User registration test");
-			
+			System.out.println();
 		}
 
 	
